@@ -1,11 +1,12 @@
-import logo from './logo.svg'
+// import logo from './logo.svg'
 import './App.css'
+import styles from './App.module.css'
 
 function App() {
     return (
         <div className='App'>
             <header className='App-header'>
-                <div>111</div>
+                <div className={styles.red}>111</div>
             </header>
         </div>
     )
