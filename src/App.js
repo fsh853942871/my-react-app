@@ -1,3 +1,5 @@
+// @flow
+
 // import logo from './logo.svg'
 import './App.scss'
 // import styles from './App.module.scss'
